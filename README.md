@@ -52,13 +52,17 @@ Before Proceeding to Statistical Prediction, some of Data Analysis and visualiza
 
 Statistical Analysis:
 
-One Sample Mean and Proportion test is performed in the given dataset. From that we can conclude that,
+One Sample Mean and Proportion test is performed in the given dataset, we can conclude that:
 Healthy person average heart rate > 70 and Person with mean age > 45 has cardiac problem
 
-In case of Two sample Mean and Proportion test is performed in the given dataset. From that we can conclude that,
-Average Cholestral level for male is higher than Average cholestral level of Female.
-In the given dataset, there exist a mean difference between Blood Pressure with Blood sugar and Blood Pressure without Blood sugar. So we can conclude that Blood Pressure has effect on Blood Sugar.
-cholestoral has effect on age, and Exercise induce angina has no effect on blood pressure.
-Age_group,Blood Pressure, Cholestral,Serum Cholestral has effect on Heart Disease.
+In case of Two sample Mean and Proportion test performed in the given dataset, we can conclude that:
+
+1. Average Cholestral level for male is higher than Average cholestral level of Female.
+
+2. In the given dataset, there exist a mean difference between Blood Pressure with Blood sugar and Blood Pressure without Blood sugar. So we can conclude that Blood Pressure has effect on Blood Sugar.
+
+3. cholestoral has effect on age, and Exercise induce angina has no effect on blood pressure.
+
+4. Age_group,Blood Pressure, Cholestral,Serum Cholestral has effect on Heart Disease.
 
 
