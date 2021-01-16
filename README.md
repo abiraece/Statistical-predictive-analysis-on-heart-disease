@@ -45,6 +45,20 @@ The dataset contains information about the individuals' age, gender, and several
 
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
-Data Pre-processing
+Data Pre-processing:
+
+First step of Data Preprocessing is finding Null Value and computing Null value. In this Dataset there is no null value and all the data's are in numerical datatype.
+Before Proceeding to Statistical Prediction, some of Data Analysis and visualization are performed to measure of central tendency,measure of spread and statstical characteistic,impact of one feature with other feature using pairplot or heatmap or scatterplot in the dataset.
+
+Statistical Analysis:
+
+One Sample Mean and Proportion test is performed in the given dataset. From that we can conclude that,
+Healthy person average heart rate > 70 and Person with mean age > 45 has cardiac problem
+
+In case of Two sample Mean and Proportion test is performed in the given dataset. From that we can conclude that,
+Average Cholestral level for male is higher than Average cholestral level of Female.
+In the given dataset, there exist a mean difference between Blood Pressure with Blood sugar and Blood Pressure without Blood sugar. So we can conclude that Blood Pressure has effect on Blood Sugar.
+cholestoral has effect on age, and Exercise induce angina has no effect on blood pressure.
+Age_group,Blood Pressure, Cholestral,Serum Cholestral has effect on Heart Disease.
 
 
